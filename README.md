@@ -4,7 +4,7 @@
 <br>
 <h2>Key to use to make sound: "w", "a", "s", "d", "j", "k", "l".</h2>
 <br>
-<code>Credits: Adrian Moloca</code>
+<code>Credits: Adrian Moloca</code><br>
 <a href="https://adymoloca.github.io/drumkit/">View Demo</a>
 
 
